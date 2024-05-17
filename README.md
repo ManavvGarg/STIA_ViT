@@ -1,7 +1,7 @@
 # STIA_ViT
 
 Satellite Image Analysis using Vision Transformers: Achieving SOTA in Vision Classification
-Manav Garg
+> Manav Garg
 
 ### **Abstract—**
 
